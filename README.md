@@ -1,96 +1,102 @@
----
-name: Haider Nadaf
-about: Full-Stack Developer | React + Next.js | Node.js | Tailwind CSS
-title: Hi, I'm Haider Nadaf
----
-
+<!-- HEADER -->
 <div align="center">
 
-# Hi, I'm Haider Nadaf <img src="https://raw.githubusercontent.com/haidernadaf67/haidernadaf67/main/wave.gif" width="40" alt="wave"/>
+# 🌟 Haider Nadaf  
+### Full-Stack Developer — React • Next.js • Node.js • Tailwind CSS
 
-### Full-Stack Developer • React + Next.js • Node.js • Tailwind CSS
+<a href="https://portfolio-qurs.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="mailto:haidernadaf67@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/haider-nadaf-316954313/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-> *Building production-grade web apps that solve real problems — from ticketing systems to farmer-management platforms.*
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/haidernadaf67/haidernadaf67/main/wave2.gif" width="250" />
 
 </div>
 
 ---
 
-### About Me
-- **Full-Stack Engineer**  
-- **Currently building**:  
-  - **TicketFlow** – Real-time ticketing with role-based dashboards [](https://ticketflow-haider.vercel.app)  
-  - **AgriCore** – Farmer database + crop analytics [](https://agricore-haider.vercel.app)  
-- **Deep-diving into**:  
-  - Advanced Node.js (streams, clustering, Redis caching)  
-  - Next.js App Router + Server Actions  
-  - Microservices & Docker orchestration  
-- **Ask me about**:  
-  React performance, API design, JWT + RBAC, MongoDB aggregation, Tailwind mastery  
-- **Real-world impact**:  
-  Built admin dashboards used by **50+ daily users**, reduced CSV import time by **70%** using worker threads  
-- **Email**: [haidernadaf67@gmail.com](mailto:haidernadaf67@gmail.com)  
-- **Location**: Bengaluru, India (open to relocation & hybrid roles)
+# 👨‍💻 About Me  
+I build **production-ready** full-stack applications with smooth UI, scalable APIs,  
+and real-time dashboards. My focus is:
+
+- 🚀 **Frontend:** Fast, clean interfaces with React + Next.js App Router  
+- 🛠 **Backend:** Node.js APIs, role-based auth, scalable logic  
+- ⚙️ **DevOps:** Vercel deployments, modular architecture, Cloudinary uploads  
+- 📊 **Real-world impact:**  
+  Built dashboards used by **50+ daily users**, optimized CSV imports by **70%**,  
+  replaced manual workflows with fully digital solutions.
 
 ---
 
-## Core Competencies
-
-| Category         | Skills |
-|------------------|--------|
-| **Frontend**     | React 18+, Next.js 14 (App Router), TypeScript, Tailwind CSS, ShadCN/UI, Framer Motion |
-| **Backend**      | Node.js, Express, REST APIs, JWT Auth, Clerk, Middleware chains |
-| **Database**     | MongoDB (Aggregation, Indexes), Mongoose, PostgreSQL |
-| **DevOps & Tools** | Git, Postman, Vercel, Render, Figma (UI handoff) |
-| **Architecture** | Modular MVC, Pagination + Filtering, File Uploads (Cloudinary), CSV/Excel I/O |
-
-**Live Projects**:
-- [TicketFlow →](https://ticketflow-haider.vercel.app) – Priority-based ticketing with analytics
-- [AgriCore Dashboard →](https://agricore-haider.vercel.app) – Farmer registry + yield reports
+# 📌 Quick Links  
+- 🌐 **Portfolio:** https://portfolio-qurs.vercel.app  
+- 🎟 **TicketFlow (Tickets Dashboard):** https://ticketflow-haider.vercel.app  
+- 🌾 **AgriCore (Farmer DB + Analytics):** https://agricore-haider.vercel.app  
 
 ---
 
-## Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,nodejs,express,mongodb,redis,docker,git,github,vscode,postman,figma,vercel,cloudinary&perline=9&theme=light" />
-</p>
-
----
-
-## Support My Open-Source Work
-
-<p align="center">
-  <a href="https://www.paypal.me/haidernadaf">
-    <img src="https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
-  </a>
-</p>
+# 🧠 Current Focus  
+- Next.js Server Actions + Edge Functions  
+- Redis caching, Node.js clustering  
+- Microservices + Docker  
+- Clean UI architecture & animations (Framer Motion + ShadCN)
 
 ---
 
-### Connect With Me
+# 🛠️ Tech Stack
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/haider-nadaf-316954313/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,redux,nodejs,express,mongodb,postgres,redis,docker,git,github,postman,figma,vercel&perline=9" />
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+### 🔹 **TicketFlow — Ticket Management Dashboard**  
+Priority sorting • Assigned agent workflows • Realtime UI  
+🔗 https://ticketflow-haider.vercel.app  
+
+### 🔹 **AgriCore — Farmer Records + Market Data**  
+Advanced filters • CSV upload • Analytics graph  
+🔗 https://agricore-haider.vercel.app  
+
+### 🔹 **Portfolio (Latest Version)**  
+Beautiful Bento-grid UI • Lottie animations • Responsive layout  
+🔗 https://portfolio-qurs.vercel.app  
+
+---
+
+# 📬 Contact Me
+
+<div align="center">
   <a href="mailto:haidernadaf67@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/haider-nadaf-316954313/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/haidernadaf67">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://haidernadaf.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=haidernadaf67&label=Profile+Views&color=6C5CE7&style=flat-square" alt="Profile views" />
-</p>
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/haidernadaf67/haidernadaf67/main/coding.gif" width="350" alt="coding"/>
+  
+### 👀 Profile Views  
+<img src="https://komarev.com/ghpvc/?username=haidernadaf67&label=Profile+Views&color=6C5CE7&style=flat-square" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/haidernadaf67/haidernadaf67/main/coding2.gif" width="350" />
+
 </div>
