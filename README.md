@@ -88,15 +88,5 @@ Beautiful Bento-grid UI • Lottie animations • Responsive layout
   </a>
 </div>
 
----
 
-<div align="center">
-  
-### 👀 Profile Views  
-<img src="https://komarev.com/ghpvc/?username=haidernadaf67&label=Profile+Views&color=6C5CE7&style=flat-square" />
 
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/haidernadaf67/haidernadaf67/main/coding2.gif" width="350" />
-
-</div>
