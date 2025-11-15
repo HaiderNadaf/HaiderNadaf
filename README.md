@@ -35,10 +35,10 @@ and real-time dashboards. My focus is:
 
 ---
 
-# 📌 Quick Links  
+# 📌 
 - 🌐 **Portfolio:** https://portfolio-qurs.vercel.app  
-- 🎟 **TicketFlow (Tickets Dashboard):** https://ticketflow-haider.vercel.app  
-- 🌾 **AgriCore (Farmer DB + Analytics):** https://agricore-haider.vercel.app  
+- 🎟 **TicketFlow (Tickets Dashboard):** 
+- 🌾 **AgriCore (Farmer DB + Analytics):**  
 
 ---
 
