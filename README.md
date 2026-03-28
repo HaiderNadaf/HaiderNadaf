@@ -4,7 +4,7 @@
 # 🌟 Haider Nadaf  
 ### Full-Stack Developer — React • Next.js • Node.js • Tailwind CSS
 
-<a href="https://portfolio-qurs.vercel.app">
+<a href="https://69c75fda369a77ba469e28a2--meek-kringle-05b4fe.netlify.app">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="mailto:haidernadaf67@gmail.com">
