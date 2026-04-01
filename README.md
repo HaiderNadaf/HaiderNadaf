@@ -4,7 +4,12 @@
 Full-stack & mobile developer from Bangalore.  
 I don’t just write code. I build complete systems, scalable APIs, and real-world apps that people actually use.
 
-[Portfolio](#) · [LinkedIn](#)
+---
+
+## 🔗 Links
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://69c75fda369a77ba469e28a2--meek-kringle-05b4fe.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/haider-nadaf-316954313)
 
 ---
 
@@ -68,4 +73,4 @@ Git · Postman · VS Code · Clerk Auth
 Building something in web, mobile, SaaS, or AI?  
 Let’s connect and build together.
 
-👉 [Connect on LinkedIn](https://www.linkedin.com/in/haider-nadaf-316954313)
+👉 [Let's Talk ](https://www.linkedin.com/in/haider-nadaf-316954313/)
