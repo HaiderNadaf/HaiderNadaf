@@ -1,92 +1,56 @@
-<!-- HEADER -->
-<div align="center">
+Haider Nadaf
+Founding engineer. I ship products — from idea to real users.
 
-# 🌟 Haider Nadaf  
-### Full-Stack Developer — React • Next.js • Node.js • Tailwind CSS
+Full-stack & mobile developer from Bangalore.
+I don’t just write code. I build complete systems, scalable APIs, and real-world apps that people actually use.
 
-<a href="https://69c75fda369a77ba469e28a2--meek-kringle-05b4fe.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="mailto:haidernadaf67@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/haider-nadaf-316954313/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+Portfolio · LinkedIn
 
-<br/><br/>
+What I Build
 
-<img src="https://raw.githubusercontent.com/haidernadaf67/haidernadaf67/main/wave2.gif" width="250" />
+Product Engineering — Full-stack web & mobile apps.
+Dashboards, admin panels, SaaS-style systems, and cross-platform applications with end-to-end ownership.
 
-</div>
+Mobile Apps — React Native & Expo apps.
+Production-ready apps with API integration, voice features, real-time flows, and APK deployments.
 
----
+Backend Systems — APIs & data-driven platforms.
+Authentication, file handling, task systems, and scalable backend services built with Node.js & MongoDB.
 
-# 👨‍💻 About Me  
-I build **production-ready** full-stack applications with smooth UI, scalable APIs,  
-and real-time dashboards. My focus is:
+Projects
 
-- 🚀 **Frontend:** Fast, clean interfaces with React + Next.js App Router  
-- 🛠 **Backend:** Node.js APIs, role-based auth, scalable logic  
-- ⚙️ **DevOps:** Vercel deployments, modular architecture, Cloudinary uploads  
-- 📊 **Real-world impact:**  
-  Built dashboards used by **50+ daily users**, optimized CSV imports by **70%**,  
-  replaced manual workflows with fully digital solutions.
+Rider–Reseller System
+Built a real-world system connecting riders and resellers.
+Handled full-stack architecture, backend APIs, and mobile workflows for field operations.
 
----
+AI Chat Mobile App
+Cross-platform app with text & voice interaction.
+Integrated APIs, audio recording, and real-time responses with production APK builds.
 
-# 📌 
-- 🌐 **Portfolio:** https://portfolio-qurs.vercel.app  
-- 🎟 **TicketFlow (Tickets Dashboard):** 
-- 🌾 **AgriCore (Farmer DB + Analytics):**  
+Ticket Management System
+Task assignment system with filters, pagination, and role-based workflows.
 
----
+Farmer Data Platform
+Data-heavy system with filtering, CSV export, and dynamic forms for multiple crop types.
 
-# 🧠 Current Focus  
-- Next.js Server Actions + Edge Functions  
-- Redis caching, Node.js clustering  
-- Microservices + Docker  
-- Clean UI architecture & animations (Framer Motion + ShadCN)
+Stack
 
----
+Frontend
+Next.js · React · TypeScript · Tailwind CSS
 
-# 🛠️ Tech Stack
+Backend
+Node.js · Express.js · MongoDB
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,redux,nodejs,express,mongodb,postgres,redis,docker,git,github,postman,figma,vercel&perline=9" />
-</div>
+Mobile
+React Native · Expo
 
----
+Tools
+Git · Postman · VS Code · Clerk Auth
 
-# 🚀 Featured Projects
+Now
 
-### 🔹 **TicketFlow — Ticket Management Dashboard**  
-Priority sorting • Assigned agent workflows • Realtime UI  
-🔗 https://ticketflow-haider.vercel.app  
-
-### 🔹 **AgriCore — Farmer Records + Market Data**  
-Advanced filters • CSV upload • Analytics graph  
-🔗 https://agricore-haider.vercel.app  
-
-### 🔹 **Portfolio (Latest Version)**  
-Beautiful Bento-grid UI • Lottie animations • Responsive layout  
-🔗 https://portfolio-qurs.vercel.app  
-
----
-
-# 📬 Contact Me
-
-<div align="center">
-  <a href="mailto:haidernadaf67@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/haider-nadaf-316954313/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/haidernadaf67">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
+Building and shipping full-stack + mobile products
+Learning system design, scalability & backend architecture
+Open to building real-world products, SaaS tools & AI-powered apps
 
 
