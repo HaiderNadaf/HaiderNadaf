@@ -8,7 +8,7 @@ I don’t just write code. I build complete systems, scalable APIs, and real-wor
 
 ## 🔗 Links
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://venerable-naiad-481539.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://haidernadaf.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/haider-nadaf-316954313)
 
 ---
